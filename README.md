@@ -8,6 +8,12 @@ Research archive of the *CRAIIM Hybrid Brain Atlas* developed by **Alberto A. Ve
 
 **Public release status:** Scientific documentation, anatomical label lookup, validation metadata and Python utilities are available here. The original atlas NIfTI volumes and historical documents are preserved in the author's research archive but are **not redistributed in this public repository** pending a review of third-party licensing.
 
+## Interactive dashboard (GitHub Pages)
+
+A static, responsive **CRAIIM Atlas Explorer** is available in [`docs/index.html`](docs/index.html). It provides 161-region lookup, source- and hemisphere-filtered browsing, volume comparisons between the 1 mm and 2 mm grids, and an interactive sagittal/coronal/axial viewer. Visitors may select their own original CRAIIM `.nii` or `.nii.gz` file; the browser processes it locally without uploading the volume to a server.
+
+**To activate the public website**, configure GitHub Pages to publish from branch `main` and folder `/docs`: see [`docs/PAGES_SETUP.md`](docs/PAGES_SETUP.md). Once enabled, the intended address is `https://albertoarturovergani.github.io/CRAIIM-fmri-atlas/`. The website's source files are public regardless of whether Pages has been enabled.
+
 ## What is CRAIIM?
 
 CRAIIM integrates **121 regions from the Jülich Histological Atlas** with **40 selected Harvard–Oxford cortical/subcortical regions** to cover anatomical territories missing from the Jülich parcellation. The merged maps contain **labels 1–161**, with `0` reserved for background, in **MNI152** space. All nonzero label IDs are present in each supplied volume. Both volumes are categorical, maximum-probability-style `thr0` label images, not continuous probability atlases.
