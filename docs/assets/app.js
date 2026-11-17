@@ -56,12 +56,12 @@ const atlas=await window.CraiimNifti.readLocal(file);const dims=atlas.dims.join(
 for(const [key,data] of Object.entries(state.atlasMeta)){if(data.dims.join("×")===dims&&atlas.voxelSize.every(n=>Math.abs(n-Number(key))<1e-5))resolution=Number(key);}
 if(!resolution)throw Error("This is not one of the CRAIIM 1 mm or 2 mm grid geometries.");
 if(atlas.counts.slice(1).some(n=>n===0))throw Error("The original CRAIIM atlas requires all 161 labels to be present.");
-const original=state.atlasMeta[resolution];const verified=atlas.sha256===original.sha256;
+const original=state.atlasMeta[resolution];const hashAvailable=typeof atlas.sha256==="string";const verified=hashAvailable&&atlas.sha256===original.sha256;
 state.atlas=atlas;state.indices=[0,-20,20].map((mm,axis)=>Math.min(atlas.dims[axis]-1,Math.max(0,Math.round((mm-atlas.affine[axis][3])/atlas.affine[axis][axis]))));
 ["x","y","z"].forEach((name,i)=>{const slider=q("slider-"+name),first=atlas.affine[i][3],last=atlas.affine[i][3]+(atlas.dims[i]-1)*atlas.affine[i][i];slider.min=Math.min(first,last);slider.max=Math.max(first,last);slider.step=Math.abs(atlas.affine[i][i]);});
 q("preview-mode").hidden=true;q("viewer-mode").hidden=false;q("viewer-state").textContent="Interactive NIfTI";q("viewer-status").classList.add("active");q("viewer-resolution").textContent=resolution+" MM ORIGINAL GRID";
-q("file-verification").textContent=verified?"SHA-256 original verified":"Unverified file checksum";
-message.textContent=verified?`Original ${resolution} mm file verified. Exploring locally, with no data upload.`:`${resolution} mm grid loaded, but compressed-file checksum differs from the archive. Verify the provenance before scientific use.`;
+q("file-verification").textContent=!hashAvailable?"SHA-256 unavailable in this browser":verified?"SHA-256 original verified":"Unverified file checksum";
+message.textContent=!hashAvailable?`${resolution} mm grid loaded locally. SHA-256 verification is unavailable in this browser context; compare the original provenance before scientific use.`:verified?`Original ${resolution} mm file verified. Exploring locally, with no data upload.`:`${resolution} mm grid loaded, but compressed-file checksum differs from the archive. Verify the provenance before scientific use.`;
 if(state.selected&&atlas.centroids[state.selected])state.indices=atlas.centroids[state.selected].map(v=>Math.round(v));drawSlices();
 }catch(error){message.classList.add("error");message.textContent=error.message||"Unable to load this NIfTI file.";}}
 function connect(){
