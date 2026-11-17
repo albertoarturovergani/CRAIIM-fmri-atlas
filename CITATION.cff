@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use the CRAIIM Hybrid Brain Atlas, please cite the 2016 and 2018 scientific reports and the 2018 doctoral thesis; all three BibTeX entries are available in references.bib."
+title: "CRAIIM Hybrid Brain Atlas: research archive"
+version: "Research archive, 2026-11-17"
+authors:
+  - family-names: Vergani
+    given-names: Alberto Arturo
+  - family-names: Minotto
+    given-names: Renzo
+  - family-names: Strocchi
+    given-names: Sabina
+  - family-names: Binaghi
+    given-names: Elisabetta
+keywords:
+  - brain atlas
+  - MNI152
+  - fMRI
+  - Juelich
+  - Harvard-Oxford
+  - FSL
+  - NIfTI
+  - Activation Weighted Vector
+abstract: "Archived hybrid volumetric atlas with 161 anatomical labels, provided at 1 mm and 2 mm resolutions and derived from Juelich and Harvard-Oxford labels."

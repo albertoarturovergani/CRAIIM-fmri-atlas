@@ -55,7 +55,7 @@ python scripts/test_label_table.py
 ```bash
 python -m pip install -r requirements.txt
 python scripts/inspect_atlases.py
-sha256sum --check checksums.sha256
+grep '  atlases/original/' checksums.sha256 | sha256sum --check
 ```
 
 Example: count voxels in one atlas label with `nibabel`:
