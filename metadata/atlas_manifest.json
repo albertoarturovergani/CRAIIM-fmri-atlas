@@ -1,0 +1,125 @@
+{
+  "archive_name": "CRAIIM Hybrid Brain Atlas",
+  "recovery_date": "2026-10-25",
+  "original_nifti_bytes_preserved": true,
+  "records": [
+    {
+      "filename": "CRAIIM-maxprob-thr0-1mm.nii.gz",
+      "path": "atlases/original/CRAIIM-maxprob-thr0-1mm.nii.gz",
+      "sha256": "64935d824b820ddf0ae5ad1d359359c38a0ffc5d9470e19bb3463c8f6cbc418b",
+      "size_bytes": 352365,
+      "shape": [
+        182,
+        218,
+        182
+      ],
+      "voxel_sizes_mm": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "storage_dtype": "float32",
+      "background_label": 0,
+      "nonzero_label_count": 161,
+      "minimum_label": 0,
+      "maximum_label": 161,
+      "all_labels_present": true,
+      "background_voxels": 5616265,
+      "labelled_voxels": 1604767,
+      "total_voxels": 7221032,
+      "qform_code": 4,
+      "sform_code": 4,
+      "affine": [
+        [
+          -1.0,
+          0.0,
+          0.0,
+          90.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -126.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -72.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "header_description": "FSL5.0",
+      "anatomical_label_name_table": "metadata/atlas_labels.tsv"
+    },
+    {
+      "filename": "CRAIIM-maxprob-thr0-2mm.nii.gz",
+      "path": "atlases/original/CRAIIM-maxprob-thr0-2mm.nii.gz",
+      "sha256": "94b3051d70320da319dccdd25b630f428e6bfcddaa3ee403cf4cc2bfe25928e3",
+      "size_bytes": 70344,
+      "shape": [
+        91,
+        109,
+        91
+      ],
+      "voxel_sizes_mm": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "storage_dtype": "float32",
+      "background_label": 0,
+      "nonzero_label_count": 161,
+      "minimum_label": 0,
+      "maximum_label": 161,
+      "all_labels_present": true,
+      "background_voxels": 689415,
+      "labelled_voxels": 213214,
+      "total_voxels": 902629,
+      "qform_code": 4,
+      "sform_code": 4,
+      "affine": [
+        [
+          -2.0,
+          0.0,
+          0.0,
+          90.0
+        ],
+        [
+          0.0,
+          2.0,
+          0.0,
+          -126.0
+        ],
+        [
+          0.0,
+          0.0,
+          2.0,
+          -72.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "header_description": "FSL5.0",
+      "anatomical_label_name_table": "metadata/atlas_labels.tsv"
+    }
+  ],
+  "inspection_software": {
+    "numpy": "2.3.5",
+    "nibabel": "5.4.2"
+  },
+  "label_lookup_table": "metadata/atlas_labels.tsv",
+  "label_lookup_provenance": "Vergani 2018 PhD thesis, Appendix 6.1.1 and 6.1.2; transcription, not original companion file",
+  "original_construction_scripts_recovered": false,
+  "archive_revision_date": "2026-11-17"
+}

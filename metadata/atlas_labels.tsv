@@ -1,0 +1,162 @@
+label_id	anatomical_label_as_in_thesis	source_atlas	source_atlas_family	source_label_id_as_in_thesis	voxels_1mm	voxels_2mm
+1	GM ANTERIOR INTRA-PARIETAL SULCUS HIP1 L	Juelich Histological Atlas	juelich	1	8204	1037
+2	GM ANTERIOR INTRA-PARIETAL SULCUS HIP1 R	Juelich Histological Atlas	juelich	2	6945	858
+3	GM ANTERIOR INTRA-PARIETAL SULCUS HIP2 L	Juelich Histological Atlas	juelich	3	2309	293
+4	GM ANTERIOR INTRA-PARIETAL SULCUS HIP2 R	Juelich Histological Atlas	juelich	4	2283	293
+5	GM ANTERIOR INTRA-PARIETAL SULCUS HIP3 L	Juelich Histological Atlas	juelich	5	5655	681
+6	GM ANTERIOR INTRA-PARIETAL SULCUS HIP3 R	Juelich Histological Atlas	juelich	6	4746	592
+7	GM AMYGDALA CENTROMEDIAL GROUP L	Juelich Histological Atlas	juelich	7	726	98
+8	GM AMYGDALA CENTROMEDIAL GROUP R	Juelich Histological Atlas	juelich	8	737	100
+9	GM AMYGDALA LATEROBASAL GROUP L	Juelich Histological Atlas	juelich	9	2983	414
+10	GM AMYGDALA LATEROBASAL GROUP R	Juelich Histological Atlas	juelich	10	3608	492
+11	GM AMYGDALA SUPERFICIAL GROUP L	Juelich Histological Atlas	juelich	11	2526	368
+12	GM AMYGDALA SUPERFICIAL GROUP R	Juelich Histological Atlas	juelich	12	2286	328
+13	GM BROCA’S AREA BA44 L	Juelich Histological Atlas	juelich	13	27414	3761
+14	GM BROCA’S AREA BA44 R	Juelich Histological Atlas	juelich	14	18011	2449
+15	GM BROCA’S AREA BA45 L	Juelich Histological Atlas	juelich	15	22176	3303
+16	GM BROCA’S AREA BA45 R	Juelich Histological Atlas	juelich	16	21315	3071
+17	GM HIPPOCAMPUS CORNU AMMONIS L	Juelich Histological Atlas	juelich	17	6853	904
+18	GM HIPPOCAMPUS CORNU AMMONIS R	Juelich Histological Atlas	juelich	18	7763	1056
+19	GM HIPPOCAMPUS DENTATE GYRUS L	Juelich Histological Atlas	juelich	19	9460	1433
+20	GM HIPPOCAMPUS DENTATE GYRUS R	Juelich Histological Atlas	juelich	20	10462	1557
+21	GM HIPPOCAMPUS ENTORHINAL CORTEX L	Juelich Histological Atlas	juelich	21	698	78
+22	GM HIPPOCAMPUS ENTORHINAL CORTEX R	Juelich Histological Atlas	juelich	22	999	123
+23	GM HIPPOCAMPUS HIPPOCAMPAL-AMYGDALOID TRANSITION AREA L	Juelich Histological Atlas	juelich	23	70	6
+24	GM HIPPOCAMPUS HIPPOCAMPAL-AMYGDALOID TRANSITION AREA R	Juelich Histological Atlas	juelich	24	40	1
+25	GM HIPPOCAMPUS SUBICULUM L	Juelich Histological Atlas	juelich	25	5370	762
+26	GM HIPPOCAMPUS SUBICULUM R	Juelich Histological Atlas	juelich	26	5757	809
+27	GM INFERIOR PARIETAL LOBULE PF L	Juelich Histological Atlas	juelich	27	10925	1580
+28	GM INFERIOR PARIETAL LOBULE PF R	Juelich Histological Atlas	juelich	28	8933	1342
+29	GM INFERIOR PARIETAL LOBULE PFCM L	Juelich Histological Atlas	juelich	29	4193	535
+30	GM INFERIOR PARIETAL LOBULE PFCM R	Juelich Histological Atlas	juelich	30	3768	471
+31	GM INFERIOR PARIETAL LOBULE PFM L	Juelich Histological Atlas	juelich	31	6101	802
+32	GM INFERIOR PARIETAL LOBULE PFM R	Juelich Histological Atlas	juelich	32	8334	1146
+33	GM INFERIOR PARIETAL LOBULE PFOP L	Juelich Histological Atlas	juelich	33	2352	300
+34	GM INFERIOR PARIETAL LOBULE PFOP R	Juelich Histological Atlas	juelich	34	2570	313
+35	GM INFERIOR PARIETAL LOBULE PFT L	Juelich Histological Atlas	juelich	35	3452	443
+36	GM INFERIOR PARIETAL LOBULE PFT R	Juelich Histological Atlas	juelich	36	3639	456
+37	GM INFERIOR PARIETAL LOBULE PGA L	Juelich Histological Atlas	juelich	37	10836	1435
+38	GM INFERIOR PARIETAL LOBULE PGA R	Juelich Histological Atlas	juelich	38	12963	1809
+39	GM INFERIOR PARIETAL LOBULE PGP L	Juelich Histological Atlas	juelich	39	16828	2425
+40	GM INFERIOR PARIETAL LOBULE PGP R	Juelich Histological Atlas	juelich	40	17270	2525
+41	GM PRIMARY AUDITORY CORTEX TE1.0 L	Juelich Histological Atlas	juelich	41	2580	336
+42	GM PRIMARY AUDITORY CORTEX TE1.0 R	Juelich Histological Atlas	juelich	42	3251	426
+43	GM PRIMARY AUDITORY CORTEX TE1.1 L	Juelich Histological Atlas	juelich	43	2034	265
+44	GM PRIMARY AUDITORY CORTEX TE1.1 R	Juelich Histological Atlas	juelich	44	2049	280
+45	GM PRIMARY AUDITORY CORTEX TE1.2 L	Juelich Histological Atlas	juelich	45	2700	394
+46	GM PRIMARY AUDITORY CORTEX TE1.2 R	Juelich Histological Atlas	juelich	46	2053	289
+47	GM PRIMARY MOTOR CORTEX BA4A L	Juelich Histological Atlas	juelich	47	9093	1292
+48	GM PRIMARY MOTOR CORTEX BA4A R	Juelich Histological Atlas	juelich	48	9218	1061
+49	GM PRIMARY MOTOR CORTEX BA4P L	Juelich Histological Atlas	juelich	49	3202	374
+50	GM PRIMARY MOTOR CORTEX BA4P R	Juelich Histological Atlas	juelich	50	2618	326
+51	GM PRIMARY SOMATOSENSORY CORTEX BA1 L	Juelich Histological Atlas	juelich	51	8593	1248
+52	GM PRIMARY SOMATOSENSORY CORTEX BA1 R	Juelich Histological Atlas	juelich	52	7632	1173
+53	GM PRIMARY SOMATOSENSORY CORTEX BA2 L	Juelich Histological Atlas	juelich	53	7349	926
+54	GM PRIMARY SOMATOSENSORY CORTEX BA2 R	Juelich Histological Atlas	juelich	54	7643	965
+55	GM PRIMARY SOMATOSENSORY CORTEX BA3A L	Juelich Histological Atlas	juelich	55	4195	542
+56	GM PRIMARY SOMATOSENSORY CORTEX BA3A R	Juelich Histological Atlas	juelich	56	3790	483
+57	GM PRIMARY SOMATOSENSORY CORTEX BA3B L	Juelich Histological Atlas	juelich	57	4866	610
+58	GM PRIMARY SOMATOSENSORY CORTEX BA3B R	Juelich Histological Atlas	juelich	58	7138	888
+59	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP1 L	Juelich Histological Atlas	juelich	59	7387	982
+60	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP1 R	Juelich Histological Atlas	juelich	60	5013	657
+61	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP2 L	Juelich Histological Atlas	juelich	61	1090	139
+62	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP2 R	Juelich Histological Atlas	juelich	62	1924	222
+63	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP3 L	Juelich Histological Atlas	juelich	63	4032	529
+64	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP3 R	Juelich Histological Atlas	juelich	64	6009	815
+65	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP4 L	Juelich Histological Atlas	juelich	65	6839	918
+66	GM SECONDARY SOMATOSENSORY CORTEX / PARIETAL OPERCULUM OP4 R	Juelich Histological Atlas	juelich	66	6324	857
+67	GM SUPERIOR PARIETAL LOBULE 5CI L	Juelich Histological Atlas	juelich	67	3177	404
+68	GM SUPERIOR PARIETAL LOBULE 5CI R	Juelich Histological Atlas	juelich	68	4313	577
+69	GM SUPERIOR PARIETAL LOBULE 5L L	Juelich Histological Atlas	juelich	69	5200	719
+70	GM SUPERIOR PARIETAL LOBULE 5L R	Juelich Histological Atlas	juelich	70	7720	1031
+71	GM SUPERIOR PARIETAL LOBULE 5M L	Juelich Histological Atlas	juelich	71	5801	923
+72	GM SUPERIOR PARIETAL LOBULE 5M R	Juelich Histological Atlas	juelich	72	5918	674
+73	GM SUPERIOR PARIETAL LOBULE 7A L	Juelich Histological Atlas	juelich	73	24654	3505
+74	GM SUPERIOR PARIETAL LOBULE 7A R	Juelich Histological Atlas	juelich	74	17921	2349
+75	GM SUPERIOR PARIETAL LOBULE 7M L	Juelich Histological Atlas	juelich	75	1773	320
+76	GM SUPERIOR PARIETAL LOBULE 7M R	Juelich Histological Atlas	juelich	76	3825	433
+77	GM SUPERIOR PARIETAL LOBULE 7PC L	Juelich Histological Atlas	juelich	77	2763	357
+78	GM SUPERIOR PARIETAL LOBULE 7PC R	Juelich Histological Atlas	juelich	78	4380	562
+79	GM SUPERIOR PARIETAL LOBULE 7P L	Juelich Histological Atlas	juelich	79	9462	1373
+80	GM SUPERIOR PARIETAL LOBULE 7P R	Juelich Histological Atlas	juelich	80	11868	1586
+81	GM VISUAL CORTEX V1 BA17 L	Juelich Histological Atlas	juelich	81	17504	2533
+82	GM VISUAL CORTEX V1 BA17 R	Juelich Histological Atlas	juelich	82	23139	2965
+83	GM VISUAL CORTEX V2 BA18 L	Juelich Histological Atlas	juelich	83	21296	3069
+84	GM VISUAL CORTEX V2 BA18 R	Juelich Histological Atlas	juelich	84	26014	3527
+85	GM VISUAL CORTEX V3V L	Juelich Histological Atlas	juelich	85	7604	1008
+86	GM VISUAL CORTEX V3V R	Juelich Histological Atlas	juelich	86	6801	931
+87	GM VISUAL CORTEX V4 L	Juelich Histological Atlas	juelich	87	12509	1769
+88	GM VISUAL CORTEX V4 R	Juelich Histological Atlas	juelich	88	9736	1397
+89	GM VISUAL CORTEX V5 L	Juelich Histological Atlas	juelich	89	6683	912
+90	GM VISUAL CORTEX V5 R	Juelich Histological Atlas	juelich	90	6983	1008
+91	GM PREMOTOR CORTEX BA6 L	Juelich Histological Atlas	juelich	91	57881	8371
+92	GM PREMOTOR CORTEX BA6 R	Juelich Histological Atlas	juelich	92	63690	8558
+93	WM ACOUSTIC RADIATION R	Juelich Histological Atlas	juelich	93	3033	365
+94	WM ACOUSTIC RADIATION L	Juelich Histological Atlas	juelich	94	4899	680
+95	WM CALLOSAL BODY	Juelich Histological Atlas	juelich	95	106316	14703
+96	WM CINGULUM R	Juelich Histological Atlas	juelich	96	9561	1302
+97	WM CINGULUM L	Juelich Histological Atlas	juelich	97	9005	1302
+98	WM CORTICOSPINAL TRACT R	Juelich Histological Atlas	juelich	98	25785	3422
+99	WM CORTICOSPINAL TRACT L	Juelich Histological Atlas	juelich	99	32129	4323
+100	WM FORNIX	Juelich Histological Atlas	juelich	100	13584	2071
+101	WM INFERIOR OCCIPITO-FRONTAL FASCICLE R	Juelich Histological Atlas	juelich	101	5886	880
+102	WM INFERIOR OCCIPITO-FRONTAL FASCICLE L	Juelich Histological Atlas	juelich	102	4416	693
+103	GM LATERAL GENICULATE BODY R	Juelich Histological Atlas	juelich	103	325	38
+104	GM LATERAL GENICULATE BODY L	Juelich Histological Atlas	juelich	104	296	32
+105	GM MAMILLARY BODY	Juelich Histological Atlas	juelich	105	1738	269
+106	GM MEDIAL GENICULATE BODY R	Juelich Histological Atlas	juelich	106	519	71
+107	GM MEDIAL GENICULATE BODY L	Juelich Histological Atlas	juelich	107	490	80
+108	WM OPTIC RADIATION R	Juelich Histological Atlas	juelich	108	28911	3911
+109	WM OPTIC RADIATION L	Juelich Histological Atlas	juelich	109	30864	4221
+110	WM SUPERIOR LONGITUDINAL FASCICLE R	Juelich Histological Atlas	juelich	110	3342	427
+111	WM SUPERIOR LONGITUDINAL FASCICLE L	Juelich Histological Atlas	juelich	111	3995	507
+112	WM SUPERIOR OCCIPITO-FRONTAL FASCICLE R	Juelich Histological Atlas	juelich	112	3717	538
+113	WM SUPERIOR OCCIPITO-FRONTAL FASCICLE L	Juelich Histological Atlas	juelich	113	3653	534
+114	WM UNCINATE FASCICLE R	Juelich Histological Atlas	juelich	114	1803	231
+115	WM UNCINATE FASCICLE L	Juelich Histological Atlas	juelich	115	1905	264
+116	GM INSULA ID1 L	Juelich Histological Atlas	juelich	116	3125	341
+117	GM INSULA ID1 R	Juelich Histological Atlas	juelich	117	4285	480
+118	GM INSULA IG1 L	Juelich Histological Atlas	juelich	118	441	47
+119	GM INSULA IG1 R	Juelich Histological Atlas	juelich	119	632	72
+120	GM INSULA IG2 L	Juelich Histological Atlas	juelich	120	1366	169
+121	GM INSULA IG2 R	Juelich Histological Atlas	juelich	121	1366	172
+122	LEFT FRONTAL POLE	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	2	83870	10801
+123	RIGHT FRONTAL POLE	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	1	98446	12770
+124	LEFT SUPERIOR TEMPORAL GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	17	2448	250
+125	RIGHT SUPERIOR TEMPORAL GYRUS	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	18	2848	325
+126	LEFT SUPERIOR TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	19	4326	619
+127	RIGHT SUPERIOR TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	20	5366	792
+128	LEFT MIDDLE TEMPORAL GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	21	5573	701
+129	RIGHT MIDDLE TEMPORAL GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	22	5520	717
+130	LEFT MIDDLE TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	23	14645	1727
+131	RIGHT MIDDLE TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	24	15120	1818
+132	LEFT MIDDLE TEMPROAL GYRUS TEMPORO-OCCIPITAL	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	25	8941	1043
+133	RIGHT MIDDLE TEMPORAL GYRUS TEMPORO-OCCIPITAL	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	26	9028	1016
+134	LEFT INFERIOR TEMPORAL GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	27	5429	709
+135	RIGHT INFERIOR TEMPORAL GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	28	4558	563
+136	LEFT INFERIOR TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	29	15178	1916
+137	RIGHT INFERIOR TEMPORAL GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	30	14824	1890
+138	LEFT INFERIOR TEMPORAL GYRUS TEMPORO-OCCIPITAL	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	31	8031	1013
+139	RIGHT INFERIOR TEMPORAL GYRUS TEMPORO-OCCIPITAL	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	32	9485	1201
+140	LEFT FRONTAL MEDIAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	49	5734	674
+141	RIGHT FRONTAL MEDIAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	50	5811	738
+142	LEFT SUBCALLOSAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	53	5939	693
+143	RIGHT SUBCALLOSAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	54	5769	663
+144	LEFT PARACINGULATE GYRUS	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	55	12598	1610
+145	RIGHT PARAGINGULATE GYRUS	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	56	11824	1403
+146	LEFT CINGULATE GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	57	4069	376
+147	RIGHT CINGULATE GYRUS ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	58	4331	364
+148	LEFT CINGULATE GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	59	3471	266
+149	RIGHT CINGULATE GYRUS POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	60	2221	130
+150	LEFT FRONTAL ORBITAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	65	17342	2128
+151	RIGHT FRONTAL ORBITAL CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	66	14950	1764
+152	LEFT TEMPORAL FUSIFORM CORTEX ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	73	2900	348
+153	RIGHT TEMPORAL FUSIFORM CORTEX ANTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	74	2106	235
+154	LEFT TEMPORAL FUSIFORM CORTEX POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	75	7636	895
+155	RIGHT TEMPORAL FUSIFORM CORTEX POSTERIOR	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	76	7065	853
+156	LEFT TEMPORAL POLE	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	15	28109	3513
+157	RIGHT TEMPORAL POLE	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	16	27482	3477
+158	LEFT THALAMUS, SUBCORTICAL HARVARD-OXFORD	Harvard-Oxford Subcortical Atlas	harvard_oxford_subcortical	3	5435	489
+159	RIGHT THALAMUS, SUBCORTICAL HARVARD-OXFORD	Harvard-Oxford Subcortical Atlas	harvard_oxford_subcortical	14	5174	476
+160	LEFT TEMPORO-OCCIPITAL FUSIFORM CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	77	6569	804
+161	RIGHT TEMPORO-OCCIPITAL FUSIFORM CORTEX	Harvard-Oxford Cortical Atlas	harvard_oxford_cortical	78	8412	992
